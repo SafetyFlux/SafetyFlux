@@ -1,5 +1,5 @@
 - Name: Dallin Gardner
 - Proficient In: Java
-- Learning: Python, JavaScript
+- Learning: Rust
 - Working On: Captchalogue Simulator
 - Email: dekuwither@gmail.com
