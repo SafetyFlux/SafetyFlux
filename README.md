@@ -1,6 +1,6 @@
 - Name: Dallin Gardner
 - Proficient In: Java, HTML, CSS
-- Learning: C#
+- Learning: Python
 - Working On: N/A
 - Email: dekuwither@gmail.com
 - Website: https://safetynerd.net
