@@ -1,5 +1,1 @@
-- Name: Dallin Gardner
-- Proficient In: Java, HTML, CSS
-- Learning: N/A
-- Working On: Software Development program at a technical college
-- Website: https://safetynerd.net
+~ UNDER CONSTRUCTION ~
